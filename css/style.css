@@ -23,8 +23,9 @@ body {
 #movie-app ul li {
   color: white;
 }
-.movie {
+#Movie-app .movie {
   color: antiquewhite;
+  padding-top: 5%;
 }
 p {
   color: beige;
