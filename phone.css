@@ -22,3 +22,15 @@
 #send {
   width: 20%;
 }
+#About {
+  padding-top: 15%;
+}
+#Projects {
+  padding-top: 15%;
+}
+#contact {
+  padding-top: 15%;
+}
+#home::before {
+  height: 900px;
+}
