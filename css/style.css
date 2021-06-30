@@ -1,0 +1,39 @@
+body {
+  margin-top: 0%;
+  margin-left: 0%;
+  margin-right: 0%;
+  background-color: black;
+}
+
+.navbar {
+  opacity: 50%;
+  background-color: grey;
+  padding: 5px;
+}
+.heading {
+  text-align: center;
+  font-family: century;
+  color: white;
+}
+/*section*/
+#Movie-app {
+  align-items: center;
+  text-align: center;
+}
+#movie-app ul li {
+  color: white;
+}
+.movie {
+  color: antiquewhite;
+}
+p {
+  color: beige;
+}
+.btn {
+  cursor: pointer;
+}
+.btn:hover {
+  background-color: white;
+  color: black;
+  box-shadow: 0, 0, 5px;
+}
